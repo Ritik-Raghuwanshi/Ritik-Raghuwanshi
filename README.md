@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning ReactJS<br>
+Full Stack Developer | MERN | PostgreSQL | Backend Focused
+
+Passionate about building scalable web applications and solving real-world problems through code.
+Currently improving DSA, System Design, and backend architecture.
+
+Open to opportunities 🚀
+
 
 
 ## 🌐 Socials:
